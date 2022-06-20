@@ -1,4 +1,6 @@
-# Requerimientos
+# Desafio JavaScript en practica
+
+## Requerimientos
 
 1. Desarrollar un código para validar un formulario de contacto utilizando el evento
    submit y las expresiones regulares que permitan el ingreso de caracteres desde la
